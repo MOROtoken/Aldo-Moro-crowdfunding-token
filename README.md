@@ -4,6 +4,10 @@ standard erc20 ethereum token
 ## About
 ALDO MORO crowdfunding token (MORO TOKEN) is cryptocurrency token, launched to support independent investigations about the death of Aldo Moro.
 The MORO is ERC20 standard ethereum token.
+
+### MORO TOKEN LOGO & CONTRACT ADRESS QR CODE
+![](morotokenlogo130x130.png)
+![](moro contract.png)
 ## Specifications
 
 * ERC20 ethereum standard token
