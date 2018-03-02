@@ -8,8 +8,6 @@ The MORO is ERC20 standard ethereum token.
 ### MORO TOKEN LOGO 
 ![](morotokenlogo130x130.png)
 
-### CONTRACT ADRESS QR CODE
-![](moro contract.png)
 
 ## Specifications
 
