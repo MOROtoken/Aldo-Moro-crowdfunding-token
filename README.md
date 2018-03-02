@@ -1,5 +1,5 @@
-# Aldo-Moro-crowdfunding-token
-standard erc20 ethereum token
+# Aldo Moro crowdfunding token
+is standard erc20 ethereum token
 
 ## About
 ALDO MORO crowdfunding token (MORO TOKEN) is cryptocurrency token, launched to support independent investigations about the death of Aldo Moro.
