@@ -21,7 +21,7 @@ The MORO is ERC20 standard ethereum token.
 
 ## LINKS
 
-1. [Explorer](https://ethplorer.io/address/0xfe0bf738bbe15fef8b76b8c6e7f2b1d6c0d3a50c#pageSize=50)
+1. [Explorer](https://ethplorer.io/address/0xb942cc393b2a934327af72843cebe70dba7e0d4f#pageSize=100&tab=tab-holders)
 2. [Crowdsale](https://morotoken.blogspot.com) 
 3. [Website](https://morotoken.wordpress.com/)
 4. [Twitter](https://twitter.com/MoroToken)
